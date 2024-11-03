@@ -1,0 +1,127 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Voces", sans-serif;
+}
+  .main{
+    background-color: #343045;
+    color: white;
+  }
+  Navbar{
+    background-color: #343045;
+  }
+  .nav-hover:hover {
+    
+    text-decoration: underline;
+  
+  }
+  
+.btns{
+  border: solid white;
+  font-size: 10px;
+  margin-left: 20px;
+  padding: 8px;
+  display: inline-block;
+  border-radius: 20px;
+  font-weight: bolder;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.btns2{
+  border: solid #8176AF;
+  background-color: #8176AF;
+  color: #343045;
+  font-weight: bolder;
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  padding: 8px;
+  border-radius: 20px;
+}
+.ext{
+color: #8176AF;}
+.landingtxt{
+  font-size: 50px;
+  
+}
+.build{
+  border: solid #8176AF;
+  background-color: #8176AF;
+  color: #343045;
+  font-weight: bolder;
+
+  margin-left: 20px;
+  font-size: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  padding: 8px;
+  border-radius: 20px;
+  
+
+}
+.womenlanding {
+  width: 100%;
+  max-width: 600px; /* Adjust the max-width as needed */
+  border-radius: 40%; /* Rounded corners */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow effect */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
+}
+
+.womenlanding:hover {
+  transform: rotate(5deg); /* Add slight rotation on hover */
+  box-shadow: 0 8px 20px rgba(255, 105, 180, 0.3); /* Change shadow color on hover */
+}
+
+
+
+.tg1 {
+ 
+  background: linear-gradient(to bottom right, #343045, #8176AF);
+  padding: 20px;
+  border-radius: 30px;
+  text-align: center;
+  font-weight: bolder;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow effect */
+}
+.sublink{
+  font-size: smaller;
+  font-weight: 200;
+}
+.txtll{
+  margin-left: 50px;
+ }
+.kkk{
+  font-weight: bolder;
+  font-size: 50px;
+  color: #8176AF;
+}
+.arrw{
+  margin-left: 50px;
+}
+.manimg {
+  max-width: 100%;
+  height: auto;
+  border-radius: 100px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.manimg:hover {
+  transform: rotate(5deg);
+  box-shadow: 0 8px 20px rgba(173, 216, 230, 0.3);
+
+}
+.hydravrsub{
+  font-weight: 100;
+}
+.abt{
+  color: #8176AF;
+  font-size: 50px;
+}
+.vrbtn{
+  border-radius: 30px;
+  background-color: #8176AF;
+  color: #fff;
+  border: #8176AF;
+ 
+}
